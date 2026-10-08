@@ -1,1 +1,0 @@
-[('receipt.eml', 'ok', 0), ('internal-meeting.eml', 'ok', 0), ('password-reset-urgent.eml', 'PHISHING', 9), ('newsletter.eml', 'ok', 0), ('prize-scam.eml', 'PHISHING', 12), ('paypal-impersonation.eml', 'PHISHING', 14)]
